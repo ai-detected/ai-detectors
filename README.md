@@ -23,6 +23,8 @@ Explore this resource to find the right AI detectors for your needs and join us 
 
 **V - Video**
 
+For the best content/text detectors, check out our other repository here (https://github.com/ai-detected/ai-content-detectors).
+
 ## Table of content:
 **Base on start letter:**
 
