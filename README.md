@@ -62,7 +62,8 @@ For the best content/text detectors, check out our other repository here (https:
 - [Deepware](https://scanner.deepware.ai/) - **V** - A free deepfake detector. A bit abandoned.
 - [DeepTrust](https://www.deeptrustai.com/) - **A** - A tool that detects and verifies the authenticity of audio files.
 - [DuckDuckGoose](https://www.duckduckgoose.ai/detector) - **I;V** - A tool called ‘DeepDetector’ for professional use.
-- [DuckDuckGoose](https://detectortools.ai/tool/duckduckgoose-ai-voice-detector/) - **A** - A professional tool to identify AI voices across all languages. 
+- [DuckDuckGoose](https://detectortools.ai/tool/duckduckgoose-ai-voice-detector/) - **A** - A professional tool to identify AI voices across all languages.
+- [Decopy AI](https://decopy.ai/ai-image-detector/) - **I** - AI tool designed to detect AI-generated content, ensure originality, and offer features like summarization and humanization for students, professionals, and content creators.
  
 ### F
 - [Fake Image Detector](https://detectortools.ai/tool/fake-image-detector/) - **I** - A free tool that identifies AI-doctored images with ~70% accuracy.
