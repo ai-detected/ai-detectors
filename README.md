@@ -84,7 +84,7 @@ For the best content/text detectors, check out our other repository here (https:
 ### R
 
 - [Reality Defender](https://www.realitydefender.com/) - **A;I;V** - A deepfake detector for professionals.
-- [Resemble AI](https://www.resemble.ai/detect/) - **A** - A professional tool for real-time deepfake audio detection. 
+- [Resemble AI Deepfake Detector](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle) - **A;I;V** - Chrome extension from Resemble AI for scanning web images, videos, and audio for AI-generated or manipulated media.
 
 ### S
 
