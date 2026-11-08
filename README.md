@@ -55,6 +55,7 @@ For the best content/text detectors, check out our other repository here (https:
 ### C
 - [Content at Scale](https://contentatscale.ai/ai-image-detector/) - **I** - AI image detector designed for marketers.
 
+- [CheckThatPhoto](https://checkthatphoto.com/) - **I** - Checks one image for AI-generation signs and explains why the finding is not proof.
 ### D
 - [DeepBrain AI](https://www.deepbrain.io/features/deepfake) - **A;I;V** - A deepfake detector to identify synthetic or AI-manipulated media.
 - [DeepFake-O-Meter](https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page) - **A;I;V** - A free tool to detect deepfake media for analysis and research.
